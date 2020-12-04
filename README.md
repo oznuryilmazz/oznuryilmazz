@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Öznur Yılmaz</h1>
-<h3 align="center">My age just 20. I stuied in bahcesehir professional and technical anatolia highschool. I choosen computer sciene in this highschool. And ı choosen my all life do this job career. My school wanted me internship and my first job started like this. My first job was intern web designer. This company was name 'Acarnet Web Development Agency.' I worked here 3 monts and my intership finished. Than i was go to the university exam and ı choosen computer teacher departmant. I always wanted computer engineer and one day ı will be. I enjoy coding program. Python, c#, javascript my favorite code language. I works company . This company name 'El Yapım Adversement Agency'. I working on the web designer and back end developer. I also works many freelance. My freelance works; software developer, wordpress designer, graphic designer, php developer etc. my job personality like ; joker, helpful, funny, communucation, friendly and etc. My skills; English, python, c#, javascript, sql, data scientist, deep learning, machine learning and etc.</h3>
+<h3 align="center"> </h3>
 
 - 🔭 I’m currently working on **El Yapım Adversement Agency- Head of Web Designer**
 
