@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yilmazoznur53@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/%C3%B6znur-y%C4%B1lmaz-676b4a176/](https://www.linkedin.com/in/%C3%B6znur-y%C4%B1lmaz-676b4a176/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/oznuryilmazz/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
